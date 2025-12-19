@@ -1,0 +1,5 @@
+{
+  "name": "Cinepulse AI",
+  "description": "An advanced movie sentiment analysis tool that generates comprehensive reviews and emotional insights using the Gemini 3 Pro API.",
+  "requestFramePermissions": []
+}
